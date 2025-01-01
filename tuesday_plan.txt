@@ -1,0 +1,11 @@
+1 Week ago (same store, same family) has large predictive power
+
+Other very relevant signals
+    1D ago
+    This weekday vs. other weekdays multiplier (to combine with past week avg.)
+        ex. 1.5x multiplier for saturday on the week avg.
+        and also include the week avg.
+
+Zoom out
+    what we should do: set up some light gbm model
+    THEN start spamming features
