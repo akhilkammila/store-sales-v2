@@ -48,6 +48,10 @@
     - preprocess to make the names the same
 - merge in isHoliday by REGION (city, state, etc.) with stores, not just setting all stores to have a holiday based on date
 
+Sources
+- Our ideas were largely based on https://www.kaggle.com/code/chongzhenjie/ecuador-store-sales-global-forecasting-lightgbm (data exploration section)
+- Many solutions seemed to use Darts for feature engineering + modelling, we struggled to replicate
+
 
 ## Final Models
 
